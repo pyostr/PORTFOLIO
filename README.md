@@ -160,7 +160,7 @@ _Задач и проектов было много, но все не распи
 [frontend-url]: https://frontend.pyostr.ru/
 [bot-url]: https://t.me/pyostr_bot
 [redoc-url]: https://order.pyostr.ru/redoc
-[miro-url]: https://miro.com/app/board/uXjVPdqp-NE=/
+[miro-url]: https://miro.com/app/board/uXjVPdqp-NE=/?share_link_id=173684708077
 
 [order-service-url]: https://github.com/pyostr/EXCHANGE_ORDERS
 [header-url]: https://s3.timeweb.com/2481cb39-1f5a3cd1-6620-459a-860f-6d8d44288631/ico/portfolio/logoza.png
