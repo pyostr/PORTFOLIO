@@ -153,7 +153,7 @@ _Задач и проектов было много, но все не распи
 * * [Простой фронт][frontend-url]
 * * [Бот обменник][bot-url]
 
-* * [Redoc сервиса объявлений][frontend-url]
+* * [Redoc сервиса объявлений][redoc-url]
 
 [frontend-url]: https://frontend.pyostr.ru/
 [bot-url]: https://t.me/pyostr_bot
