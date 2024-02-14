@@ -1,4 +1,4 @@
-[![header][header-url]][header-link]
+[//]: # ([![header][header-url]][header-link])
 
 # Островский Сергей
 ![Frontend][Frontend-image]
